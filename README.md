@@ -1,4 +1,4 @@
-# wellness-check-bot
+# complain handler bot
 Rasa bot implementing complain
 
 
