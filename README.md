@@ -1,6 +1,5 @@
 # wellness-check-bot
-This is a simple Rasa bot that uses a form to create a daily log of health information.
-Added feature to complain!!
+Rasa bot implementing complain
 
 
 ## Running the assistant
@@ -16,5 +15,3 @@ Added feature to complain!!
 4. Return to the first terminal window and start the assistant on the command line:
 
 ``rasa shell``
-
-![wellness-bot-conversation](https://github.com/karen-white/wellness-check-bot/blob/master/images/bot_conversation.png?raw=true)
